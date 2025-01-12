@@ -2,7 +2,7 @@
 20250110_starknet_StarkCoffee
 
 ## 網站 (Dapp)
-* https://starknetstarkcoffee-5ub04vohy-martinyeung5s-projects.vercel.app/myNFTs
+* https://starknetstarkcoffee-5ub04vohy-martinyeung5s-projects.vercel.app
 
 ## 介紹
 利用Scaffold-Stark開發一個NFT會員系統，針對咖啡店的，希望可以令到不同獨立的咖啡店可以組成一個聯盟，減低宣傳成本及形成雙贏局面。
